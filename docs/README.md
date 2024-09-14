@@ -1,3 +1,3 @@
 # 星河
 
-> An awesome project.
+> 欢迎来到星河的个人博客.
