@@ -1,6 +1,7 @@
-<!-- docs/_sidebar.md -->
-* [首页](first.md)
+<!-- _sidebar.md -->
 
-<!-- docs/_sidebar.md -->
-<!-- * [Home](/)
-* [Guide](guide.md "The greatest guide in the world") -->
+* Typora+Docsify使用指南
+  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md) <!--注意这里是相对路径-->
+  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
+* Docsify部署
+  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
