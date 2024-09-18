@@ -1,6 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [首页](zh-cn.html)
-* [指南](zh-cn/guide)
+* [首页](first.md)
 
 <!-- docs/_sidebar.md -->
 <!-- * [Home](/)
